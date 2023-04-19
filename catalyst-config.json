@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "javaxss",
+		"stack": "java8",
+		"type": "advancedio"
+	},
+	"execution": {
+		"main": "Service"
+	}
+}
